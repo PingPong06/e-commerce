@@ -1,0 +1,1 @@
+let divide = () => {a/b};
