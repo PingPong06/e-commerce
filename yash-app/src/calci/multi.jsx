@@ -1,0 +1,1 @@
+let multi = () => {a*b};
